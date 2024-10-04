@@ -2,6 +2,8 @@
 Lumache - Python library for cooks and food lovers.
 """
 
+import matplotlib.pyplot as plt
+
 __version__ = "0.1.0"
 
 
